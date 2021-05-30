@@ -1,0 +1,18 @@
+{
+  "name": "bot-de-faze",
+  "version": "1.0.0",
+  "description": "bot de faze",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "faze"
+  ],
+  "author": "◇─ƑƛȤЄƦƦƠƦ405─◇#3417",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
